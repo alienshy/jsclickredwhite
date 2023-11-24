@@ -1,0 +1,8 @@
+div{
+    cursor:grab;
+
+}
+div:active{
+    cursor: grabbing;
+
+}
